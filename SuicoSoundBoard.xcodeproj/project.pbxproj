@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		283A34922CB58EC000894985 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A34912CB58EC000894985 /* SoundViewController.swift */; };
 		28E1E0062CB5780F00C3D2FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E1E0052CB5780F00C3D2FB /* AppDelegate.swift */; };
 		28E1E0082CB5780F00C3D2FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E1E0072CB5780F00C3D2FB /* SceneDelegate.swift */; };
 		28E1E00A2CB5780F00C3D2FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E1E0092CB5780F00C3D2FB /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		283A34912CB58EC000894985 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 		28E1E0022CB5780F00C3D2FB /* SuicoSoundBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuicoSoundBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28E1E0052CB5780F00C3D2FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28E1E0072CB5780F00C3D2FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				28E1E0072CB5780F00C3D2FB /* SceneDelegate.swift */,
 				28E1E0092CB5780F00C3D2FB /* ViewController.swift */,
 				28E1E00B2CB5780F00C3D2FB /* Main.storyboard */,
+				283A34912CB58EC000894985 /* SoundViewController.swift */,
 				28E1E0112CB5781100C3D2FB /* Assets.xcassets */,
 				28E1E0132CB5781100C3D2FB /* LaunchScreen.storyboard */,
 				28E1E0162CB5781100C3D2FB /* Info.plist */,
@@ -145,6 +148,7 @@
 				28E1E00A2CB5780F00C3D2FB /* ViewController.swift in Sources */,
 				28E1E0062CB5780F00C3D2FB /* AppDelegate.swift in Sources */,
 				28E1E0082CB5780F00C3D2FB /* SceneDelegate.swift in Sources */,
+				283A34922CB58EC000894985 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
